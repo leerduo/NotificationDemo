@@ -176,6 +176,7 @@ numMessages = 0;
 * The user touches the notification, and you called setAutoCancel() when you created the notification.
 * You call cancel() for a specific notification ID. This method also deletes ongoing notifications.
 * You call cancelAll(), which removes all of the notifications you previously issued.
+
 #使用大样式的Notification
 实现的效果如下：
 ![1](http://1.infotravel.sinaapp.com/pic/13.gif)
